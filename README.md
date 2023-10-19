@@ -3,7 +3,8 @@
  - [Front-End](https://github.com/StefanButacu/App-Calorie-Tracking-FE)  
  - [Back-End](https://github.com/StefanButacu/App-Calorie-Tracking-BE)  
  - [Segmentation](https://github.com/StefanButacu/Food_Segmentation)  
- - Paper
+ - [Paper](https://github.com/StefanButacu/Bachelor-Thesis/blob/main/Evaluarea_arhitecturilor_de_segmentare_a_imaginilor_pentru_jurnalizarea_dietei__RO_.pdf)
+ - [Presentation](https://github.com/StefanButacu/Bachelor-Thesis/blob/main/Evaluarea%20arhitecturilor%20de%20segmentare%20a%20imaginilor%20pentru%20jurnalizarea%20dietei.pdf)
 
 ## Abstract
 In the current era, the regular intake of healthy food is crucial for maintaining a balanced diet to overcome obesity in humans. Automated food recognition in images holds an array of compelling applications, such as nutritional tracking within medical cohorts. This study suggests a deep learning model neural network that classifies each pixel in an image into one food category out of the 103 available categories. The primary objective of this proposed methodology is to deliver exceptional performance as per established evaluation metrics in the field of image segmentation.
